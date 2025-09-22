@@ -25,9 +25,9 @@
 - Get Gold Helicopter<br>
 - Get GoldCar<br>
 - Kill all player<br>
-- Kill Script<br>
 - Teleport VIP Room<br>
 - Teleport end bridge<br>
+- Kill Script<br>
 </p>
 
 
