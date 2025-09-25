@@ -1,5 +1,9 @@
-
-<h1 align="center">The 1000000 Jump Rope SCRIPT</h1>
+<h1 align="center">
+  <a href="https://www.roblox.com/games/123741668193208/The-1-000-000-Jump-Rope" 
+     style="text-decoration:none; color:inherit;">
+    The 1000000 Jump Rope SCRIPT
+  </a>
+</h1>
 
 <div align="center">
   <img height="200" src="https://tr.rbxcdn.com/180DAY-56346dcd2cec57e4edfd5a56bbb2966b/768/432/Image/Webp/noFilter"  />
