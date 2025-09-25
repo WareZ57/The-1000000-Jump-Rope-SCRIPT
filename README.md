@@ -11,14 +11,14 @@
 
 ###
 
-<p align="left">loadstring(game:HttpGet("https://raw.githubusercontent.com/WareZ57/The-1000000-Jump-Rope-SCRIPT/refs/heads/main/jumprope.lua"))()</p>
+<p align="center">loadstring(game:HttpGet("https://raw.githubusercontent.com/WareZ57/The-1000000-Jump-Rope-SCRIPT/refs/heads/main/jumprope.lua"))()</p>
 
 ###
 
-<h2 align="left">Features :</h2>
+<h2 align="center">Features :</h2>
 
 
-<p align="left">
+<p align="center">
 - Rope disable (temp)<br>
 - Permanent rope disable (loop)<br>
 - Give 100.000$<br>
@@ -37,11 +37,11 @@
 
 ###
 
-<h2 align="left">Made & Tested with</h2>
+<h2 align="center">Made & Tested with</h2>
 
 ###
 
-<p align="left">
+<p align="center">
   <a href="https://sirius.menu/" target="_blank">
     <img src="https://image.noelshack.com/fichiers/2025/39/1/1758549544-t-l-chargement.png" height="50" />
   </a>
